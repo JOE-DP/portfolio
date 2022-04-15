@@ -3702,7 +3702,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 5em 5em 3em 5em ;
+		padding: 0em 5em 0em 5em ;
 		width: calc(100% + 2em);
 		margin: 0 0 3em -2em;
 	}
@@ -3722,7 +3722,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#footer {
-				padding: 4em 4em 2em 4em ;
+				padding: 0em 4em 0em 4em ;
 			}
 
 		}
@@ -3730,7 +3730,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#footer {
-				padding: 4em 3em 2em 3em ;
+				padding: 0em 3em 0em 3em ;
 				display: block;
 				margin: 0 0 3em 0;
 				width: 100%;
@@ -3751,7 +3751,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#footer {
-				padding: 3em 2em 1em 2em ;
+				padding: 0em 2em 0em 2em ;
 			}
 
 		}
@@ -3759,7 +3759,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#footer {
-				padding: 3em 1.5em 1em 1.5em ;
+				padding: 0em 1.5em 0em 1.5em ;
 			}
 
 		}
@@ -3767,7 +3767,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#footer {
-				padding: 2.5em 1em 0.5em 1em ;
+				padding: 0em 1em 0em 1em ;
 			}
 
 		}
