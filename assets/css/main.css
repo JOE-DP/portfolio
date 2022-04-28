@@ -124,6 +124,7 @@ input, select, textarea {
 	font-weight: bold;
 }
 
+
 /* Type */
 
 
@@ -2372,6 +2373,7 @@ input, select, textarea {
 .image-row{
 	width: 100%;
 	border-radius: 8px;
+	height: 50%;
 }
 
 	.image {
